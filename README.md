@@ -2,4 +2,4 @@
 
 ![calculadora](img.png " logo")
 
-[Acesar o Projeto](https://counteredumelo.netlify.app)
+[Acesar o Projeto](https://calculadorabasicaedumelo.netlify.app)
