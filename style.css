@@ -4,8 +4,9 @@
     outline: none;
 }
 
+
 .main {
-    width: 30%;
+    width: 60vh;
     height: 80vh;
 }
 .space {
@@ -55,4 +56,11 @@ button:hover {
 
 .orange:hover {
     background-color: #dfb07e;
+}
+
+@media (max-width: 900px) {
+    
+body {
+    height: 120vh;
+}
 }
